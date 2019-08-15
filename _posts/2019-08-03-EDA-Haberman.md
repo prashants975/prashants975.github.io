@@ -5,6 +5,7 @@ tags: [EDA, data science, visualization]
 header:
   image: "/images/perceptron/percept.jpg"
 excerpt: "EDA, Visualization"
+classes: wide
 mathjax: "true"
 ---
 
