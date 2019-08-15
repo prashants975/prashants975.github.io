@@ -1,6 +1,6 @@
 ---
 layout: posts
-permalink: /data-wrangling/
+permalink: /portfolio/
 title: "Portfolio"
 author_profile: true
 header:
