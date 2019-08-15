@@ -497,7 +497,7 @@ plt.show()
       "Adding an axes using the same arguments as a previous axes "
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/output_14_1.png" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/haberman/output_14_1.png" alt="">
 
 
 
@@ -513,8 +513,8 @@ for i in range(len(features)):
 
 ```
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/haberman/output_15_0.png" alt="">
 
-![png](output_15_0.png)
 
 
 We can see that **Age is following a normal distribution**.<br>
@@ -548,8 +548,8 @@ plt.show()
       "Adding an axes using the same arguments as a previous axes "
 
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/haberman/output_17_1.png" alt="">
 
-![png](output_17_1.png)
 
 
 The overlap is huge in pdf and cdf so creating a simple decision boundary with one variable which can classify if a patient will survive or not is not possible with just visualization.
@@ -648,8 +648,7 @@ sns.pairplot(haberman, hue='Status',height = 3, plot_kws = {'alpha': 0.6})
 
 
 
-
-![png](output_22_1.png)
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/haberman/output_22_1.png" alt="">
 
 
 Not much can be concluded from the above pair plots as for both the cases **we are finding similar distribution** only in **axil_nodes Vs Age** we can see that **patients with higher age and axil_nodes have less chance for surving as there are not many points that are clustered toward left(more towrd right i.e. high age)**.
