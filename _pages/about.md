@@ -5,6 +5,4 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
-
-Etc, etc, etc
+I'm Prashant Solanki and I'm a Data Enthusiast. I have started my journey in the field of AI and working my way in this dynamic field. I have graduated from BITS Pilani Goa Campus.
