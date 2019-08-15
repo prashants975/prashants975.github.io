@@ -1,7 +1,6 @@
 ---
 title: "Haberman's Dataset E.D.A"
 date: 2019-08-03
-classes: "wide"
 tags: [EDA, data science, visualization]
 header:
   image: "/images/perceptron/percept.jpg"
