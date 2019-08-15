@@ -497,8 +497,8 @@ plt.show()
       "Adding an axes using the same arguments as a previous axes "
 
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/output_14_1.png" alt="">
 
-![png](output_14_1.png)
 
 
 
