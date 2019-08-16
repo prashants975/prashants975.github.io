@@ -1,10 +1,8 @@
 ---
 layout: posts
-permalink: /portfolio/
-title: "Portfolio"
+permalink: /blog/
+title: "Blog"
 author_profile: true
 header:
   image: "/images/fort point.png"
 ---
-
-
