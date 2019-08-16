@@ -3,6 +3,7 @@ title: "Data Wrangling Project"
 date: 2018-01-28
 header:
   image: "/images/perceptron/percept.jpg"
+  teaser: "/images/perceptron/percept.jpg"
 classes: wide
 tags: [data wrangling, data science, messy data]
 excerpt: "Data Wrangling, Data Science, Messy Data"
