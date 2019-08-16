@@ -278,7 +278,7 @@ defaults:
       author_profile: false
       share: true
 
-  # _posts
+  # _projects
   - scope:
       path: ""
       type: projects
@@ -287,6 +287,6 @@ defaults:
       classes: wide
       author_profile: true
       read_time: true
-      comments:  true
+      comments:  false
       share: true
       related: true
