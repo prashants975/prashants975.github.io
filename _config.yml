@@ -277,3 +277,16 @@ defaults:
       layout: single
       author_profile: false
       share: true
+
+  # _posts
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+      read_time: true
+      comments:  true
+      share: true
+      related: true
